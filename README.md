@@ -13,6 +13,7 @@ The project relies on the Arduino Time library by Michael Margolis:
 [https://github.com/PaulStoffregen/Time](https://github.com/PaulStoffregen/Time)
 
 Using the Arduino Library Manager, install "*Time* by *Michael Margolis*".
+
 If an error occurs with Time.h, remove it and use TimeLib.h only.
 
 ## How does it actually work?
