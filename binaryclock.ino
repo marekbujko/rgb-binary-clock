@@ -11,6 +11,11 @@ void setup()
 {
 Serial.begin(9600); // initialize Serial communication
   while(!Serial) ;
+
+  Serial.println("Project: RGB Binary Clock v1.0");
+  Serial.println("Copyright Marek Bujko");
+  Serial.println("Licensed under MIT License");
+  Serial.println("--------------------------");
   
   for (int i = 0; i<4; i++)
   {
