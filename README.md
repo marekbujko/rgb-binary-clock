@@ -51,3 +51,7 @@ You can physically rearrange the LEDs or adjust it in the code.
 For full functionality, you could add a **DS3231/DS1307 module** and [DS1307RTC library][1] or another real-time clock to keep accurate time.
 
 [1]:<https://github.com/PaulStoffregen/DS1307RTC>
+
+## License 📄
+
+[MIT](LICENSE)
