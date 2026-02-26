@@ -42,7 +42,7 @@ For example, in the table above, the LED colors correspond to a specific time:
 
 Understanding color combinations lets you read the time visually.
 
-The **LEDs**, starting from the first one, represent binary values: 1, 2, 4, 8, 16, 32 for minutes and seconds.
+The **LEDs**, starting from the first (top) one, represent binary values: 1, 2, 4, 8, 16, 32 for minutes and seconds.
 
 Hours start from the **3rd LED**: 1, 2, 4, 8.
 
