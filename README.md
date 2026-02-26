@@ -3,8 +3,6 @@ This repository contains my RGB Binary Clock project for the Arduino Nano, origi
 
 The hardware setup is minimal: Arduino Nano, 6 RGB LEDs, resistors and a switch.
 
-The logic uses binary-weighted 6-bit representations for the RGB LEDs and operates on a 12-hour format.
-
 The project includes basic time output via the serial interface at 9600 baud.
 
 Pins are easily configurable for additional LEDs in the following arrays: `hourLEDs[]`, `minuteLEDs[]`, `secondLEDs[]` and `loopLEDs[]`.
@@ -44,6 +42,8 @@ For example, in the table above, the LED colors correspond to a specific time:
 **Blue** = seconds
 
 Understanding color combinations lets you read the time visually.
+
+The logic uses binary-weighted 6-bit representations for the **RGB LEDs** and operates on a 12-hour format.
 
 The **LEDs**, starting from the first (top) one, represent binary values: 1, 2, 4, 8, 16, 32 for minutes and seconds.
 
