@@ -18,9 +18,9 @@ Using the Arduino Library Manager, install "*Time* by *Michael Margolis*".
 ## How does it actually work?
 6 RGB LEDs. Each RGB LED represents a combination of hours, minutes and seconds.
 
-The **1st and 2nd LEDs** can only represent minutes and seconds, this follows a 12-hour format.
-
 Each RGB LED has three colors: red, green and blue. By mixing these colors, you can create CMY colors.
+
+The **1st and 2nd LEDs** can only represent minutes and seconds, this follows a 12-hour format.
 
 <img src="rgb-binary-clock-logic.png"/>
 
