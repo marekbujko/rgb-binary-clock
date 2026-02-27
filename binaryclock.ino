@@ -5,7 +5,7 @@ int hourLEDs [] = {4,3,2,19};  // least significant bit first
 int minuteLEDs [] = {10,9,8,7,6,5};  
 int secondLEDs [] = {16,15,14,13,12,11};  
 int loopLEDs[] = {16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,19};
-int switchPin = 18;
+int switchPin = 17;
 
 void setup()
 {
