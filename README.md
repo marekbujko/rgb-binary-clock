@@ -1,6 +1,6 @@
 # RGB Binary Clock for Arduino (Legacy, 12 hour format) 🕓
 
-<img src="rgb-led-example.gif"  width="320" height="275" />
+<img align="left" src="rgb-led-example.gif"  width="320" height="275" hspace="20"/>
 This repository contains my RGB Binary Clock project for the Arduino Nano, originally created many years ago.
 
 The hardware setup is minimal: Arduino Nano, 6 RGB LEDs, resistors and a switch.
