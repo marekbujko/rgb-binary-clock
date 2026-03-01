@@ -22,7 +22,7 @@ If an error occurs with Time.h, remove it and use TimeLib.h only.
 ## How does it actually work? 🔴🟢🔵🔴🟢🔵
 6 RGB LEDs. Each RGB LED represents a combination of hours, minutes and seconds.
 
-Each RGB LED has three colors: red, green and blue. By mixing these colors, you can create CMY colors.
+Each RGB LED has three colors: red, green and blue. By mixing these colors, you can create CMYW colors.
 
 The **1st and 2nd LEDs** can only represent minutes and seconds.
 
